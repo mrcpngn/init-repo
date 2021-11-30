@@ -1,4 +1,7 @@
-﻿
+﻿# I don't own this script ALL Credits to christophecalvet
+# Link: https://github.com/christophecalvet/Windows-Server-unattended-plus-VMware-Tools
+
+
 #Description
 #Windows server 2016 unattended installation with VMware tools.
 #Build process automatized with PowerShell.
